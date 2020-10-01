@@ -5,7 +5,7 @@ I'm Timur. Welcome to my GitHub page 😎
 - 👨🏼‍💻 Android developer
 - 🎓 Computer science bachelor, currently studying for a master degree
 
-More info and projects portfolio right here - [weazyexe.dev](weazyexe.dev)
+More info and projects portfolio right here - [weazyexe.dev](weazyexe.dev?r=g)
 
 
 <!--
