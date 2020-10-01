@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi %%username%%
+
+I'm Timur. Welcome to my GitHub page 😎
+- 🏙 Russian Federation, Voronezh
+- 👨🏼‍💻 Android developer
+- 🎓 Computer science bachelor, currently studying for a master degree
+
+More info and projects portfolio right here - [weazyexe.dev](weazyexe.dev)
+
 
 <!--
 **weazyexe/weazyexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
