@@ -1,7 +1,7 @@
 ## Hi %%username%%
 
 I'm Timur. Welcome to my GitHub page 😎
-- 🏙 Russian Federation, Voronezh
+- 🏙 Voronezh, Russia
 - 👨🏼‍💻 Android developer
 - 🎓 Computer science bachelor, currently studying for a master degree
 
