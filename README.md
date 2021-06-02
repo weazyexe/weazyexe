@@ -9,6 +9,8 @@ I'm Timur. Welcome to my GitHub page 😎
 - 👨🏼‍💻 Android Developer at [@surfstudio](https://github.com/surfstudio)
 - 🎓 Computer Science bachelor
 
-## Languages
+## Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weazyexe&langs_count=6)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weazyexe&langs_count=10&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=weazyexe&show_icons=true)
