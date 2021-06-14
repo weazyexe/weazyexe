@@ -1,3 +1,5 @@
+[![Здравствуйте, Тимур](./img/hello.jpg)](https://www.youtube.com/watch?v=m1II9JsX2LM)
+
 ## Hi $USERNAME
 
 I'm Timur. Welcome to my GitHub page 😎
