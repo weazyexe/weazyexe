@@ -6,7 +6,7 @@ I'm Timur. Welcome to my GitHub page 😎
 
 ## Summary
 
-- 👴🏼 23 years old
+- 👴🏼 24 years old
 - 🇬🇪 Tbilisi, Georgia
 - 👨🏼‍💻 Android Developer at [@surfstudio](https://github.com/surfstudio)
 - 🎓 Computer Science bachelor
