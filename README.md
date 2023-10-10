@@ -6,7 +6,7 @@ I'm Timur. Welcome to my GitHub page 😎
 
 ## Summary
 
-- 👴🏼 24 years old
+- 👴🏼 25 years old
 - 🇬🇪 Tbilisi, Georgia
 - 👨🏼‍💻 Android Developer at [@aviasales](https://github.com/aviasales)
 - 🎓 Computer Science bachelor
